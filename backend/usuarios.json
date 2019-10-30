@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nome": "caroline jandoso",
+        "login": "jandoso",
+        "idade": 27,
+        "techs": ["javascript", "node", "mongodb", "mysql"]
+    },
+    {
+        "id": 2,
+        "nome": "dani karasawa",
+        "login": "karasawa",
+        "idade": 40,
+        "techs": ["javascript", "node", "mongodb"]
+    }, 
+    {
+        "id": 3,
+        "nome": "henrique detoni",
+        "login": "detoni",
+        "idade": 29,
+        "techs": ["javascript", "php", "mysql"]
+    },
+    {
+        "id": 4,
+        "nome": "cassius gacchido",
+        "login": "gacchido",
+        "idade": 29,
+        "techs": ["javascript", "node", "php", "mysql"]
+    }
+]
